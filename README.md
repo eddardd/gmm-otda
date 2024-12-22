@@ -11,6 +11,8 @@ You can run our code using,
 python visda.py --base_path=PATH_TO_DATA --features="vit" --clusters_per_class="4" --reg_e=0.1
 ```
 
+The extracted features for VisDA can be acessed in [Google Drive](https://drive.google.com/drive/folders/1AI-fBi722qVAzbFZPKVoGMQioEl0-LuF?usp=sharing).
+
 # Citation
 
 ```
